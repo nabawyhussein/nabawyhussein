@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00C4F0&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nabawy+Hussein!;Senior+Software+Engineer;Flutter+%7C+Android+Developer;Mobile+Architect+%7C+Clean+Architecture;Scalable+Systems+%7C+Real-Time+Apps;Performance+Driven+Development">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00C4F0&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Nabawy+Hussein!;Senior+Software+Engineer;Flutter+%7C+Android+Developer;Mobile+Architecture+Expert;Scalable+%26+Real-Time+Apps;Clean+Code+%7C+High+Performance">
 </h1>
 
 <!-- Waving GIF -->
@@ -12,11 +12,21 @@
 
 ## 🚀 About Me
 
-- **Senior Software Engineer**
-- **Mobile Developer (Flutter | Android)**
-- Specialized in **architecture**, **state management**, **real-time communication**, and **scalable mobile ecosystems**
-- Focused on **clean code**, **performance**, **secure storage**, and **structural app design**
-- Experienced across **Fintech, Delivery, POS, HR, Ride-booking, and Enterprise Systems**
+I am a **Senior Software Engineer** and **Mobile Developer (Flutter | Android)** specializing in building  
+**scalable**, **high-performance**, and **architecture-driven** mobile ecosystems.
+
+My work focuses on:
+
+- Mobile architecture & modular app design  
+- Clean code & maintainable structure  
+- State management strategies  
+- Real-time systems & background operations  
+- Offline-first apps with sync strategies  
+- Performance tuning, isolates & profiling  
+- Secure storage & authentication flows  
+- Third-party integrations (payments, maps, APIs)  
+
+I have delivered production apps in **Fintech, Delivery, POS, HR, Ride-booking, and Enterprise Platforms**.
 
 ---
 
@@ -38,70 +48,108 @@
 
 ---
 
-## 🔧 Languages & Tools (Advanced)
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,firebase,mysql,git,github,linux,stackoverflow" /><br/>
+  <!-- Mobile Core -->
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,androidstudio" /><br/>
 
-  <img src="https://skillicons.dev/icons?i=postman,regex,githubactions,bash,redis,docker,nginx" /><br/>
+  <!-- Tools & APIs -->
+  <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,postman,figma" /><br/>
 
-  <img src="https://skillicons.dev/icons?i=azure,aws" />
+  <!-- Productivity & AI -->
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,githubcopilot,linux" />
 </p>
 
-### **Additional Skills**
-- **Mobile Architecture:** Clean Architecture, Modular Structure, Scalable Patterns  
-- **State Management:** Advanced patterns (Streams, Reactive Systems, Multi-layered State Flows)  
-- **CI/CD:** GitHub Actions, Codemagic, automated build pipelines, testing workflows  
-- **AI Tools:** Cursor, GitHub Copilot, OpenAI tools for documentation & automation  
-- **Performance:** Profiling, isolates, memory optimization, async orchestration  
+### Mobile Engineering Skills
+- Clean Architecture / Layered & Modular Design  
+- State Management (Reactive, Multi-layered flow, Streams)  
+- Secure Storage, JWT, Authentication  
+- Background services, notifications, isolates  
+- Payment integrations & transactional systems  
+- Maps, geolocation, routing & tracking  
+- Offline-first logic & sync mechanisms  
+- Platform channels & native integrations  
 
 ---
 
-# ⭐ Projects
+## 🔥 Engineering Focus Areas
+
+- Mobile Architecture & Scalable System Design  
+- Real-time communication (Streams, WebSockets)  
+- Complex UI state orchestration  
+- Performance engineering & memory optimization  
+- Platform-specific capabilities (Android/iOS)  
+- CI/CD automation for mobile delivery  
+- Resilient, fault-tolerant mobile workflows  
+
+---
+
+## 🧠 Development Philosophy
+
+- Build for **clarity, consistency, and scalability**  
+- Prefer **structure over shortcuts**  
+- Follow **clean code**, **SOLID**, and architectural discipline  
+- Always design for **maintainability** & **future growth**  
+
+---
+
+## 🎯 Domains I Build For
+
+- E-commerce & Food Delivery  
+- POS & Transaction Systems  
+- HR & Attendance Systems  
+- Ride-booking & Transportation  
+- Community & Facility Management  
+- Fintech & Payment-based Apps  
+
+---
+
+# ⭐ Featured Projects
 
 ### 🔹 **Madinet Masr Community App**  
-> Full-compound management system (access, payments, maintenance, services).  
-**Role:** Mobile developer (architecture + theming + integrations)
+> A full residential compound platform for access control, payments, maintenance, and services.  
+**Highlights:** Clean architecture, theming engine, payment integrations, CI/CD.
 
 ---
 
 ### 🔹 **Queens Taste – Client App**  
-> Food ordering app with payments, coupons, product catalog, and live order tracking.  
-**Role:** Feature development + payment gateway + optimization
+> Consumer food ordering app with real-time order tracking and payment flow.  
+**Highlights:** Payment gateway, coupons, catalog, push notifications.
 
 ### 🔹 **Queens Taste – Staff App**  
-> Role-based dashboards for cashier, kitchen, delivery, and dispatch.  
-**Role:** Real-time sync + offline caching + architecture
+> Multi-role operational dashboards (cashier, kitchen, delivery, pickup).  
+**Highlights:** Real-time sync, offline storage, operational workflows.
 
 ---
 
 ### 🔹 **POS System Ecosystem**  
-> Multi-app POS platform (cashier, kitchen, waiter, customer) with Isar storage & real-time updates.  
-**Role:** Integrations + WebSockets + storage layer refactoring
+> Multi-app POS suite for cashier, kitchen, delivery, customer & admin.  
+**Highlights:** Isar DB, WebSockets, printing integration, multi-device syncing.
 
 ---
 
 ### 🔹 **Saree3 Delivery App**  
-> Delivery and dispatch system with geolocation routing and rule automation.  
-**Role:** Maps + background location + business logic migrations
+> Delivery & dispatching platform with geolocation and automated routing.  
+**Highlights:** Maps, background location updates, performance optimization.
 
 ---
 
 ### 🔹 **Atariqi (KSA) – Ride Booking App**  
-> Student route booking (Uber-style) with scheduled + on-demand rides.  
-**Role:** Firebase + route simulation + state structure
+> Student ride-booking app (Uber-style) with scheduled & on-demand trips.  
+**Highlights:** Firebase, route simulation, real-time markers, provider patterns.
 
 ---
 
 ### 🔹 **HR System**  
-> Attendance, HR approval workflows, login, biometric authentication.  
-**Role:** API integrations + persistence + business logic
+> Attendance, leave management, approvals, and biometric authentication.  
+**Highlights:** Offline persistence, secure flows, API integrations.
 
 ---
 
-### 🔹 **LinkPro**  
-> Internal workflow management + ticketing + role-based access control.  
-**Role:** Flutter Web + mobile + complete UI system
+### 🔹 **LinkPro – Workflow Management**  
+> Internal ticketing & workflow platform for enterprise teams.  
+**Highlights:** Flutter Web + Mobile, role-based access, system logic.
 
 ---
 
