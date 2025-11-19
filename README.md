@@ -54,12 +54,12 @@
 ## ⚡ GitHub Animations
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NabawyHussein&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabawyHussein&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nabawyhussein&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabawyhussein&theme=radical" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NabawyHussein&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabawyhussein&theme=react-dark" />
 </p>
 
 ---
