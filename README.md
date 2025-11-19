@@ -1,9 +1,9 @@
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00C4F0&center=true&vCenter=true&lines=Hi+there%2C+I'm+Nabawy+Hussein!;Senior+Software+Engineer;Flutter+%7C+Android+Developer;Mobile+Architecture+%26+Scalable+Systems;Clean+Code+%7C+State+Management;Real-Time+Apps+%7C+Performance+Driven" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00C4F0&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nabawy+Hussein!;Senior+Software+Engineer;Flutter+%7C+Android+Developer;Mobile+Architect+%7C+Clean+Architecture;Scalable+Systems+%7C+Real-Time+Apps;Performance+Driven+Development">
 </h1>
 
-<!-- Waving Hand GIF -->
+<!-- Waving GIF -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="60px" />
 </p>
@@ -12,10 +12,11 @@
 
 ## 🚀 About Me
 
-- **Senior Software Engineer**  
-- **Mobile Developer (Flutter | Android)**  
-- Passionate about **architecture**, **scalable systems**, **real-time apps**, and **clean code**  
-- Builds production apps for **Fintech, Delivery, POS, HR, Ride-booking, and Enterprise Systems**
+- **Senior Software Engineer**
+- **Mobile Developer (Flutter | Android)**
+- Specialized in **architecture**, **state management**, **real-time communication**, and **scalable mobile ecosystems**
+- Focused on **clean code**, **performance**, **secure storage**, and **structural app design**
+- Experienced across **Fintech, Delivery, POS, HR, Ride-booking, and Enterprise Systems**
 
 ---
 
@@ -23,89 +24,87 @@
 
 - **Email:** snour0138@gmail.com  
 - **Behance:** https://www.behance.net/nabawyhussein  
-- **LinkedIn:** https://www.linkedin.com/company/webkeyz  
+- **LinkedIn:** https://www.linkedin.com/in/nabway-hussein-5234aa31b/  
 - **WhatsApp:** +20 1124988930  
 
 <p>
   <a href="https://wa.me/201124988930">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook" />
-  </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/nabway-hussein-5234aa31b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
 </p>
 
 ---
 
-## 🔧 Languages & Tools
+## 🔧 Languages & Tools (Advanced)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,firebase,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,firebase,mysql,git,github,linux,stackoverflow" /><br/>
+
+  <img src="https://skillicons.dev/icons?i=postman,regex,githubactions,bash,redis,docker,nginx" /><br/>
+
+  <img src="https://skillicons.dev/icons?i=azure,aws" />
 </p>
+
+### **Additional Skills**
+- **Mobile Architecture:** Clean Architecture, Modular Structure, Scalable Patterns  
+- **State Management:** Advanced patterns (Streams, Reactive Systems, Multi-layered State Flows)  
+- **CI/CD:** GitHub Actions, Codemagic, automated build pipelines, testing workflows  
+- **AI Tools:** Cursor, GitHub Copilot, OpenAI tools for documentation & automation  
+- **Performance:** Profiling, isolates, memory optimization, async orchestration  
 
 ---
 
-# 🖼️ Flutter-Themed Header
+# ⭐ Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FlutterRocks/awesome-flutter/master/flutter-icon.png" height="90" />
-  <img src="https://raw.githubusercontent.com/nisrulz/flutter-examples/master/screenshots/logo.png" height="90" />
-</p>
-
----
-
-# ⭐ Project Cards (Your Real Apps)
-
-### 🔹 **Madinet Masr Community App**
-> Residential compound management (operations, access, payments, maintenance)  
-**Tech:** Clean Architecture, Theming, Payments, Testing, CI/CD  
-
-### 🔹 **Queens Taste – Client & Staff Apps**
-> Full e-commerce system + role-based staff dashboards  
-**Tech:** Payment Gateway, Real-Time Sync, REST API, Native Channels  
-
-### 🔹 **POS System Ecosystem**
-> Apps for cashier, kitchen, waiter, customer  
-**Tech:** Isar Storage, WebSockets, Printing Integration  
-
-### 🔹 **Saree3 Delivery**
-> Delivery system with automated dispatch + real-time location  
-**Tech:** Maps, Background Isolates, Streams  
-
-### 🔹 **Atariqi – Ride Booking (KSA)**
-> Student transportation system (Uber-style)  
-**Tech:** Firebase, Maps API, Route Simulation  
-
-### 🔹 **HR System**
-> Attendance, approval workflows, biometric authentication  
-
-### 🔹 **LinkPro**
-> Internal workflow management + ticketing  
+### 🔹 **Madinet Masr Community App**  
+> Full-compound management system (access, payments, maintenance, services).  
+**Role:** Mobile developer (architecture + theming + integrations)
 
 ---
 
-# ⚡ GitHub Animations
+### 🔹 **Queens Taste – Client App**  
+> Food ordering app with payments, coupons, product catalog, and live order tracking.  
+**Role:** Feature development + payment gateway + optimization
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabawyhussein&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabawyhussein&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabawyhussein&theme=react-dark" />
-</p>
+### 🔹 **Queens Taste – Staff App**  
+> Role-based dashboards for cashier, kitchen, delivery, and dispatch.  
+**Role:** Real-time sync + offline caching + architecture
 
 ---
 
-# 🎯 Final Message
+### 🔹 **POS System Ecosystem**  
+> Multi-app POS platform (cashier, kitchen, waiter, customer) with Isar storage & real-time updates.  
+**Role:** Integrations + WebSockets + storage layer refactoring
+
+---
+
+### 🔹 **Saree3 Delivery App**  
+> Delivery and dispatch system with geolocation routing and rule automation.  
+**Role:** Maps + background location + business logic migrations
+
+---
+
+### 🔹 **Atariqi (KSA) – Ride Booking App**  
+> Student route booking (Uber-style) with scheduled + on-demand rides.  
+**Role:** Firebase + route simulation + state structure
+
+---
+
+### 🔹 **HR System**  
+> Attendance, HR approval workflows, login, biometric authentication.  
+**Role:** API integrations + persistence + business logic
+
+---
+
+### 🔹 **LinkPro**  
+> Internal workflow management + ticketing + role-based access control.  
+**Role:** Flutter Web + mobile + complete UI system
+
+---
 
 <p align="center">
-  <b>Always crafting scalable, clean, and high-performance mobile experiences.</b>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+  <b>Always building scalable, clean, and high-performance mobile experiences.</b>
 </p>
