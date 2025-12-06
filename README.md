@@ -30,6 +30,13 @@ I have delivered production apps in **Fintech, Delivery, POS, HR, Ride-booking, 
 
 ---
 
+## 🌐 Portfolio
+
+🔗 **Check My Portfolio:**  
+https://nabawyhusseindev.lovable.app
+
+---
+
 ## 📩 Contact Me
 
 - **Email:** snour0138@gmail.com  
@@ -73,83 +80,71 @@ I have delivered production apps in **Fintech, Delivery, POS, HR, Ride-booking, 
 
 ---
 
-## 🔥 Engineering Focus Areas
-
-- Mobile Architecture & Scalable System Design  
-- Real-time communication (Streams, WebSockets)  
-- Complex UI state orchestration  
-- Performance engineering & memory optimization  
-- Platform-specific capabilities (Android/iOS)  
-- CI/CD automation for mobile delivery  
-- Resilient, fault-tolerant mobile workflows  
-
----
-
-## 🧠 Development Philosophy
-
-- Build for **clarity, consistency, and scalability**  
-- Prefer **structure over shortcuts**  
-- Follow **clean code**, **SOLID**, and architectural discipline  
-- Always design for **maintainability** & **future growth**  
-
----
-
-## 🎯 Domains I Build For
-
-- E-commerce & Food Delivery  
-- POS & Transaction Systems  
-- HR & Attendance Systems  
-- Ride-booking & Transportation  
-- Community & Facility Management  
-- Fintech & Payment-based Apps  
-
----
-
 # ⭐ Featured Projects
 
 ### 🔹 **Madinet Masr Community App**  
-> A full residential compound platform for access control, payments, maintenance, and services.  
-**Highlights:** Clean architecture, theming engine, payment integrations, CI/CD.
+> Residential compound platform for access control, payments & maintenance.  
+**Highlights:** Clean architecture, theming, payments, CI/CD  
+
+**📱 Download:**  
+- Android: https://play.google.com/store/apps/developer?id=Madinet+Masr+Innovation+Labs&hl=en-US  
+- iOS: https://apps.apple.com/eg/app/madinet-masr/id6670177241  
 
 ---
 
 ### 🔹 **Queens Taste – Client App**  
-> Consumer food ordering app with real-time order tracking and payment flow.  
-**Highlights:** Payment gateway, coupons, catalog, push notifications.
+> Food ordering app with payment integration & live order tracking.  
+**Highlights:** Payment gateway, coupons, notifications  
+
+**📱 Download:**  
+- Android: https://play.google.com/store/apps/details?id=com.appsbunches.queenstaste&hl=en  
+- iOS: https://apps.apple.com/eg/app/queens-taste-مذاق-الملكة/id1596642919  
+
+---
 
 ### 🔹 **Queens Taste – Staff App**  
-> Multi-role operational dashboards (cashier, kitchen, delivery, pickup).  
-**Highlights:** Real-time sync, offline storage, operational workflows.
+> Role-based dashboards for cashier, kitchen & delivery operations.  
+**Highlights:** Real-time sync, offline data, operational workflows  
+
+**📱 Download:**  
+- iOS: https://apps.apple.com/eg/app/queenstaste-hr-staff/id1644104833  
 
 ---
 
 ### 🔹 **POS System Ecosystem**  
-> Multi-app POS suite for cashier, kitchen, delivery, customer & admin.  
-**Highlights:** Isar DB, WebSockets, printing integration, multi-device syncing.
+> Multi-app POS suite across cashier, kitchen, delivery & customer.  
+**Highlights:** Isar DB, WebSockets, printing, multi-device sync  
+
+**📱 Download:**  
+- Android: https://play.google.com/store/apps/developer?id=LOOPED+FOR+INFORMATION+TECHNOLOGY&hl=en  
+- iOS: https://apps.apple.com/eg/developer/looped/id1648650412  
 
 ---
 
 ### 🔹 **Saree3 Delivery App**  
-> Delivery & dispatching platform with geolocation and automated routing.  
-**Highlights:** Maps, background location updates, performance optimization.
+> Delivery & dispatching platform with automated routing.  
+**Highlights:** Maps, background location updates, rule automation  
 
 ---
 
 ### 🔹 **Atariqi (KSA) – Ride Booking App**  
-> Student ride-booking app (Uber-style) with scheduled & on-demand trips.  
-**Highlights:** Firebase, route simulation, real-time markers, provider patterns.
+> Student ride-booking app (Uber-style) with scheduling.  
+**Highlights:** Firebase, route simulation, live markers  
 
 ---
 
 ### 🔹 **HR System**  
-> Attendance, leave management, approvals, and biometric authentication.  
-**Highlights:** Offline persistence, secure flows, API integrations.
+> Attendance, leave management, approvals & biometric auth.  
+**Highlights:** Offline persistence, secure flows  
+
+**📱 Download:**  
+- iOS: https://apps.apple.com/eg/app/queenstaste-hr-staff/id1644104833  
 
 ---
 
 ### 🔹 **LinkPro – Workflow Management**  
-> Internal ticketing & workflow platform for enterprise teams.  
-**Highlights:** Flutter Web + Mobile, role-based access, system logic.
+> Internal ticketing & workflow automation tool.  
+**Highlights:** Flutter Web + Mobile, role-based access  
 
 ---
 
