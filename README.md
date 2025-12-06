@@ -32,7 +32,7 @@ I have delivered production apps in **Fintech, Delivery, POS, HR, Ride-booking, 
 
 ## 🌐 Portfolio
 
-🔗 **Check My Portfolio:**  
+🔗 **View Portfolio:**  
 https://nabawyhusseindev.lovable.app
 
 ---
@@ -45,10 +45,10 @@ https://nabawyhusseindev.lovable.app
 - **WhatsApp:** +20 1124988930  
 
 <p>
-  <a href="https://wa.me/201124988930">
+  <a href="https://wa.me/201124988930" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp" />
   </a>
-  <a href="https://www.linkedin.com/in/nabway-hussein-5234aa31b/">
+  <a href="https://www.linkedin.com/in/nabway-hussein-5234aa31b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
 </p>
@@ -86,9 +86,14 @@ https://nabawyhusseindev.lovable.app
 > Residential compound platform for access control, payments & maintenance.  
 **Highlights:** Clean architecture, theming, payments, CI/CD  
 
-**📱 Download:**  
-- Android: https://play.google.com/store/apps/developer?id=Madinet+Masr+Innovation+Labs&hl=en-US  
-- iOS: https://apps.apple.com/eg/app/madinet-masr/id6670177241  
+<p>
+  <a href="https://play.google.com/store/apps/developer?id=Madinet+Masr+Innovation+Labs&hl=en-US" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Play-Store-success?logo=googleplay" />
+  </a>
+  <a href="https://apps.apple.com/eg/app/madinet-masr/id6670177241" target="_blank">
+    <img src="https://img.shields.io/badge/App%20Store-Download-blue?logo=appstore" />
+  </a>
+</p>
 
 ---
 
@@ -96,9 +101,14 @@ https://nabawyhusseindev.lovable.app
 > Food ordering app with payment integration & live order tracking.  
 **Highlights:** Payment gateway, coupons, notifications  
 
-**📱 Download:**  
-- Android: https://play.google.com/store/apps/details?id=com.appsbunches.queenstaste&hl=en  
-- iOS: https://apps.apple.com/eg/app/queens-taste-مذاق-الملكة/id1596642919  
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.appsbunches.queenstaste&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Play-Store-success?logo=googleplay" />
+  </a>
+  <a href="https://apps.apple.com/eg/app/queens-taste-مذاق-الملكة/id1596642919" target="_blank">
+    <img src="https://img.shields.io/badge/App%20Store-Download-blue?logo=appstore" />
+  </a>
+</p>
 
 ---
 
@@ -106,8 +116,11 @@ https://nabawyhusseindev.lovable.app
 > Role-based dashboards for cashier, kitchen & delivery operations.  
 **Highlights:** Real-time sync, offline data, operational workflows  
 
-**📱 Download:**  
-- iOS: https://apps.apple.com/eg/app/queenstaste-hr-staff/id1644104833  
+<p>
+  <a href="https://apps.apple.com/eg/app/queenstaste-hr-staff/id1644104833" target="_blank">
+    <img src="https://img.shields.io/badge/App%20Store-Download-blue?logo=appstore" />
+  </a>
+</p>
 
 ---
 
@@ -115,14 +128,19 @@ https://nabawyhusseindev.lovable.app
 > Multi-app POS suite across cashier, kitchen, delivery & customer.  
 **Highlights:** Isar DB, WebSockets, printing, multi-device sync  
 
-**📱 Download:**  
-- Android: https://play.google.com/store/apps/developer?id=LOOPED+FOR+INFORMATION+TECHNOLOGY&hl=en  
-- iOS: https://apps.apple.com/eg/developer/looped/id1648650412  
+<p>
+  <a href="https://play.google.com/store/apps/developer?id=LOOPED+FOR+INFORMATION+TECHNOLOGY&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Play-Store-success?logo=googleplay" />
+  </a>
+  <a href="https://apps.apple.com/eg/developer/looped/id1648650412" target="_blank">
+    <img src="https://img.shields.io/badge/App%20Store-Download-blue?logo=appstore" />
+  </a>
+</p>
 
 ---
 
 ### 🔹 **Saree3 Delivery App**  
-> Delivery & dispatching platform with automated routing.  
+> Delivery & routing platform with background tracking.  
 **Highlights:** Maps, background location updates, rule automation  
 
 ---
@@ -137,8 +155,11 @@ https://nabawyhusseindev.lovable.app
 > Attendance, leave management, approvals & biometric auth.  
 **Highlights:** Offline persistence, secure flows  
 
-**📱 Download:**  
-- iOS: https://apps.apple.com/eg/app/queenstaste-hr-staff/id1644104833  
+<p>
+  <a href="https://apps.apple.com/eg/app/queenstaste-hr-staff/id1644104833" target="_blank">
+    <img src="https://img.shields.io/badge/App%20Store-Download-blue?logo=appstore" />
+  </a>
+</p>
 
 ---
 
